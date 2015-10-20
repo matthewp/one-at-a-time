@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/matthewp/one-at-a-time.svg?branch=master)](https://travis-ci.org/matthewp/one-at-a-time)
+[![npm version](https://badge.fury.io/js/promise-one-at-a-time.svg)](http://badge.fury.io/js/promise-one-at-a-time)
+
 # promise-one-at-a-time
 
 Run promise-creating functions one at a time.
